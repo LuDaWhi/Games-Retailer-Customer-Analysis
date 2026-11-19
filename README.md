@@ -1,7 +1,4 @@
 # 🎮 Analysing Customer Loyalty, Segmentation, and Sentiment for a Games Retailer
-Exploratory and predictive data analysis project using Python (pandas, NumPy, scikit-learn, NLTK, TextBlob, Matplotlib, Seaborn) and R to identify the factors that drive customer loyalty, segment customers for targeted marketing, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately.
-
----
 
 ## 📌 Executive Summary
 This project analyses customer data from Turtle Games to identify the factors that drive customer loyalty, develop meaningful customer segments, evaluate customer sentiment through natural language processing, and assess whether loyalty point accumulation can be predicted accurately. The analysis found that remuneration and spending score were the strongest predictors of loyalty points, that five customer segments existed, with three having significant commercial importance, and that customer sentiment was generally neutral to positive. Based on these findings, the project recommends targeting high-earning, low-spending customers through tailored campaigns, enhancing the existing loyalty programme with spend-based rewards, and expanding customer data collection to improve future predictive modelling.
